@@ -1,0 +1,6 @@
+// this file tells our app how to use babel.
+// preset-env - handles the transformation of es6 in the common js
+// preset-react - deals with jsx syntax
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
