@@ -6,4 +6,10 @@
 
 `src` - contains the reactjs app source code.
 
+## install react and react-dom
+`yarn add react react-dom`
+
+## add app root component
+these are `App.js` and `App.css`. these are the root component.
+
 
