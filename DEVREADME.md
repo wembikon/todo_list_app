@@ -26,3 +26,11 @@ those modules.
 ## install babel webpack loader
 this will enable us to use babel transpiler package in webpack rules
 `yarn add -D babel-loader`
+
+## add babel config file
+`.babelrc`
+
+## add webpack config file
+`webpack.config.js`
+
+
