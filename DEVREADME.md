@@ -19,3 +19,10 @@ it can transform front-end assets such as HTML, CSS, and images if the correspon
 are included. webpack takes modules with dependencies and generates static assets representing
 those modules.
 `yarn add -D webpack webpack-cli webpack-dev-server style-loader css-loader`
+
+## install babel transpiler packages
+`yarn add -D @babel/core @babel/cli @babel/preset-env @babel/preset-react`
+
+## install babel webpack loader
+this will enable us to use babel transpiler package in webpack rules
+`yarn add -D babel-loader`
