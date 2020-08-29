@@ -33,4 +33,6 @@ this will enable us to use babel transpiler package in webpack rules
 ## add webpack config file
 `webpack.config.js`
 
+## run the app using webpack
+`npx webpack-dev-server --mode development`
 
