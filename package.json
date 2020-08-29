@@ -1,0 +1,19 @@
+{
+  "name": "todo_list_app",
+  "version": "1.0.0",
+  "description": "ReactJs app for adding, marking as complete and deleting todo items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theupstarts/todo_list_app.git"
+  },
+  "author": "Adrian T Visarra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theupstarts/todo_list_app/issues"
+  },
+  "homepage": "https://github.com/theupstarts/todo_list_app#readme"
+}
