@@ -36,3 +36,7 @@ this will enable us to use babel transpiler package in webpack rules
 ## run the app using webpack
 `npx webpack-dev-server --mode development`
 
+## enable hot loading
+`yarn add -D react-hot-loader`
+
+
